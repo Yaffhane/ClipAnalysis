@@ -1,0 +1,10 @@
+setuptools
+flask
+nltk
+gensim
+pymongo
+requests
+pandas
+joblib
+matplotlib
+scikit-learn
